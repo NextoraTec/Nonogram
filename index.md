@@ -3,8 +3,6 @@
 **Effective date:** October 26, 2026  
 **Draft status:** Complete the developer contact details below before publishing.
 
-## English
-
 ### Overview
 
 NonoGram is an offline nonogram puzzle game. We respect your privacy. NonoGram does not require an account and does not collect, upload, or sell your personal information through the app.
