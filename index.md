@@ -1,7 +1,6 @@
 # NonoGram Privacy Policy
 
 **Effective date:** October 26, 2026  
-**Draft status:** Complete the developer contact details below before publishing.
 
 ### Overview
 
